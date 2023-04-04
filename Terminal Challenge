@@ -1,0 +1,21 @@
+Last login: Tue Apr  4 09:46:09 on ttys000
+lennymacias@Adminsitrators-MacBook-Pro ~ % cd desktop
+lennymacias@Adminsitrators-MacBook-Pro desktop % mkdir test-folder-1
+lennymacias@Adminsitrators-MacBook-Pro desktop % 
+lennymacias@Adminsitrators-MacBook-Pro desktop % cat > challenge.txt
+Question 1: The major difference between git and github is that Git is a controlsystem take takes savestates of your code and github is a website where you can upload your git. 
+
+Question 2: Terminal is pretty much the directory for your entire computer. It essentially acts like a control center for your computer.  
+
+
+
+
+
+
+
+
+
+
+
+
+
